@@ -1,5 +1,5 @@
 # Tomcat-Script-Jenkins-Deploy
-These are veravials
+These are Environment Variables
 Env	Dev
 
 AppName	Agile
