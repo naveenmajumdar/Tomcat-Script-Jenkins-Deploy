@@ -1,9 +1,9 @@
 # Tomcat-Script-Jenkins-Deploy
-These are Environment Variables
 Execute Shell file put on jenkins execute shell peramitter
 
 #${BUILD_NUMBER}-${ENV, var="Env"}-${ENV, var="AppName"}-${ENV, var="ModuleName"}-${ENV,var="TomcatManagerURL"}-${ENV,var="Version"}
 
+These are Environment Variables
 Env	Dev
 
 AppName	Agile
