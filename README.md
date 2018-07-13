@@ -14,10 +14,10 @@ TomcatManagerURL Tomcate_URL/manager
 
 TomcatAdminUser	<USER NAME>
   
-TomcatAdminPassword	
+TomcatAdminPassword	<PASSWORD>
 
 WARFilePath <DIR PATH> 
 
-Version	1.8-SNAPSHOT
+Version	<1.8-SNAPSHOT>
 
-ContextPath	
+ContextPath	</Export_DCO_Data>
