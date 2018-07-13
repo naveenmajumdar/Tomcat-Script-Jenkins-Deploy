@@ -1,0 +1,6 @@
+if [[ $(find ${WARFilePath} -name *.war  | wc -l) -gt 0 ]]; then
+	export WARFileFullPath=`find $WARFilePath -name *.war`
+else
+	exit 1
+fi
+perl /paas/applications/jenkins/scripts/tomcat_deploy.pl $TomcatManagerURL $TomcatAdminUser $TomcatAdminPassword $WARFileFullPath $ContextPath
