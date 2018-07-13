@@ -1,5 +1,7 @@
 # Tomcat-Script-Jenkins-Deploy
 These are Environment Variables
+Execute Shell file put on jenkins execute shell peramitter
+
 Env	Dev
 
 AppName	Agile
